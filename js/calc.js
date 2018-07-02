@@ -78,6 +78,7 @@ function f_calc(id,n)
         document.getElementById(id+'_result').focus();
         return true;
 }
+//add new function
 function add_calc(id,n)
 {
         if(calc_array[id][1]==1)
